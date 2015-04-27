@@ -2,7 +2,7 @@
   "name": "utf8",
   "repo": "virtru-components/utf8",
   "description": "A utf8 library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
   },
   "license": "MIT"
